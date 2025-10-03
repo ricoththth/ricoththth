@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rico</h1>
-<h3 align="center">Front end student from Colombia</h3>
+<h3 align="center"></h3>
 
 <!--
 **ricoththth/ricoththth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
